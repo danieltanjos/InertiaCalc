@@ -42,7 +42,7 @@ The project uses several Python libraries, including **customtkinter**, **PIL**,
 
 1. Run the application:
    ```bash
-   python main.py
+   python GUI.py
 2. Select a PNG image of the section.
 3. Enter the maximum vertical dimension of the section (in mm).
 4. Press the "Calculate" button to compute the moment of inertia and center of gravity.
